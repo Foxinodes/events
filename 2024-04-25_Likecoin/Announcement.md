@@ -596,7 +596,7 @@ We are committed to fully reimbursing the 5% of the delegated amount that was bu
   Refund: 0.06 LIKE
 ```
 
-The reimbursements will be processed as soon as possible. We will update this announcement with links to the transactions.
+The reimbursements have been completed. Details are provided in the `Refund-Report.md` file.
 
 We deeply regret the inconvenience caused and appreciate your patience and support as we work to resolve these issues. For any questions or concerns, we remain available through our support channels.
 
