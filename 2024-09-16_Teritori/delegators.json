@@ -1,0 +1,34 @@
+[
+	{
+		"delegatorAddress":"tori184vpdnt4pzkz70ery009l9ac5p8sel7swjewpz",
+		"balance":
+		{
+			"denom":"utori",
+			"amount":"9900000679"
+		}
+	},
+	{
+		"delegatorAddress":"tori1fuvcqj8uw8mkysptlfgjjshvn60jvmhrzc7ymg",
+		"balance":
+		{
+			"denom":"utori",
+			"amount":"512323841"
+		}
+	},
+	{
+		"delegatorAddress":"tori1vxhwam8vhntl3qslyxp663vr7v50j5h8tgurmw",
+		"balance":
+		{
+			"denom":"utori",
+			"amount":"59400004"
+		}
+	},
+	{
+		"delegatorAddress":"tori1576amleqxgkqj4f7dm59c0zws4k6mv9chyytft",
+		"balance":
+		{
+			"denom":"utori",
+			"amount":"2970000203"
+		}
+	}
+]
