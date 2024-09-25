@@ -1,0 +1,1 @@
+🚀 Casanode Alpha 4 is here! Fixes for Bluetooth connection, node IP display in the mobile app, simplified OS installation, and new REST API settings. Ready to test? Join us: https://t.me/raspberrypidvpntesting
