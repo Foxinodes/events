@@ -1,0 +1,94 @@
+{
+	"error":false,
+	"delegators":
+	[
+		{
+			"delegatorAddress": "agoric1p0mkzeqnvfpp5ag0g22j97auud3z9p04xl02pl",
+			"balance": {
+				"denom": "ubld",
+				"amount": "4335756"
+			},
+			"shares": "4335756000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1p74fec7hudtsrplpcnwpjlmq3hyxps23lhhhd0",
+			"balance": {
+				"denom": "ubld",
+				"amount": "3000000"
+			},
+			"shares": "3000000000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric19hha9htn3wjxdyvlg4k9s443u0vczge2vnxpyq",
+			"balance": {
+				"denom": "ubld",
+				"amount": "18484832"
+			},
+			"shares": "18484832000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1wlzefewjftph6a2aw7du4x4up8axkt5uqp3kkt",
+			"balance": {
+				"denom": "ubld",
+				"amount": "12312509"
+			},
+			"shares": "12312509000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1jr4cuknpep4mfvu48kzs8en332za4473eya8yu",
+			"balance": {
+				"denom": "ubld",
+				"amount": "100000000"
+			},
+			"shares": "100000000000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1j88x23kvz5zex8gnvqytsk20suhcjsc2v2cm6j",
+			"balance": {
+				"denom": "ubld",
+				"amount": "11026286577"
+			},
+			"shares": "11026286577000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1hxg7d7sa6gxz3m0n975ztv0utnxz2whk6g9ptg",
+			"balance": {
+				"denom": "ubld",
+				"amount": "7545746"
+			},
+			"shares": "7545746000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1m8az0wax9pqzgrpvhpvwmxwxag9c7547rlp6vh",
+			"balance": {
+				"denom": "ubld",
+				"amount": "11291181"
+			},
+			"shares": "11291181000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric17cs6p8fjfcvsygc2yv6q7j7wvmax9pj0yr0dfa",
+			"balance": {
+				"denom": "ubld",
+				"amount": "85329471"
+			},
+			"shares": "85329471000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric1nm7dgz4fhjuspqpcn0pnuwzhhcpu66evxrmyythqc8aa09ejjspqs7rjld",
+			"balance": {
+				"denom": "ubld",
+				"amount": "6222147"
+			},
+			"shares": "6222147000000000000000000"
+		},
+		{
+			"delegatorAddress": "agoric146eq2rdl42hhy26cv4vxd65ttgkcpnvhj42pemc6cv97caxcdswqm2a8ew",
+			"balance": {
+				"denom": "ubld",
+				"amount": "50016"
+			},
+			"shares": "50016000000000000000000"
+		}
+	]
+}
